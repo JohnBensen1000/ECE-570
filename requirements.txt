@@ -17,6 +17,7 @@ mamba @ file:///Users/runner/miniforge3/conda-bld/mamba-split_1638989996847/work
 matplotlib==3.6.1
 numpy==1.23.4
 packaging==21.3
+pandas==1.5.1
 Pillow==9.2.0
 pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1636020649952/work
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
@@ -24,6 +25,7 @@ pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_16331924
 pyparsing==3.0.9
 PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1635862544510/work
 python-dateutil==2.8.2
+pytz==2022.6
 requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1637771257551/work
 ruamel-yaml-conda @ file:///Users/runner/miniforge3/conda-bld/ruamel_yaml_1636009272502/work
 scikit-learn==1.1.2
